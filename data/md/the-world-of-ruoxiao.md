@@ -10,11 +10,11 @@ lastModified: '2025-01-07T22:00:00.000Z'
 ---
 # RuoXiao is Best
 
-LemoBook provides a powerful and user-friendly interface for managing your website's articles. This guide will walk you through the process of viewing, editing, and creating new articles using the admin panel.
+RuoXiao provides a powerful and user-friendly interface for managing your website's articles. This guide will walk you through the process of viewing, editing, and creating new articles using the admin panel.
 
 ## Accessing the Article Management Section
 
-1. Log into the admin panel by navigating to `https://yourlemobooksite.com/admin` and entering your access password.
+1. Log into the admin panel by navigating to `/admin` and entering your access password.
 2. Once on the admin dashboard, locate and click on the "Manage Articles" or "Articles" option.
 
 ## Viewing Articles
@@ -59,7 +59,7 @@ LemoBook provides a powerful and user-friendly interface for managing your websi
 
 ## Understanding Markdown
 
-LemoBook uses Markdown for article formatting. Here are some basic Markdown tips:
+RuoXiao uses Markdown for article formatting. Here are some basic Markdown tips:
 
 - Use `#` for headers (e.g., `# Main Title`, `## Subtitle`)
 - Wrap text with `*` for italic and `**` for bold
@@ -68,7 +68,7 @@ LemoBook uses Markdown for article formatting. Here are some basic Markdown tips
 
 ## Managing Article Metadata
 
-Depending on your LemoBook setup, you might be able to manage additional metadata for your articles:
+Depending on your RuoXiao setup, you might be able to manage additional metadata for your articles:
 
 - Tags or Categories
 - Featured Image
@@ -81,7 +81,7 @@ Look for these options in the article editor and fill them out as needed.
 
 After saving or creating an article:
 
-1. LemoBook will automatically sync your changes with the configured GitHub repository.
+1. RuoXiao will automatically sync your changes with the configured GitHub repository.
 2. A new Markdown file will be created (for new articles) or updated (for edits) in the `data/md/` directory of your repository.
 3. The `articles.json` file in the `data/json/` directory will also be updated to reflect the changes.
 
@@ -101,4 +101,4 @@ If you encounter issues while managing articles:
 2. **Formatting Issues**: If your Markdown isn't rendering correctly, double-check your syntax.
 3. **Sync Errors**: If changes aren't reflecting in GitHub, verify your GitHub token permissions and repository settings.
 
-By following these guidelines, you should be able to effectively manage articles on your LemoBook website through the admin panel. Remember, all your content is version-controlled through GitHub, allowing for easy tracking of changes and the ability to revert if necessary.
+By following these guidelines, you should be able to effectively manage articles on your RuoXiao website through the admin panel. Remember, all your content is version-controlled through GitHub, allowing for easy tracking of changes and the ability to revert if necessary.
