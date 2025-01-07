@@ -43,14 +43,15 @@ export default function Home() {
         </p>
       </section>
 
-      {/* 资源列表组件: 展示前10个资源，并添加"查看更多"链接 */}
-      <ResourceList resources={resources} showMoreLink={true} />
       {/* 文章列表组件: 展示最新12篇文章，不启用分页 */}
       <ArticleList 
         articles={allPostsData} 
         showMoreLink={true} 
         enablePagination={false}
       />
+
+      {/* 资源列表组件: 展示前10个资源，并添加"查看更多"链接 */}
+      <ResourceList resources={resources} showMoreLink={true} />
     </div>
   )
 }
