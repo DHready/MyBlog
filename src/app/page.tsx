@@ -39,7 +39,7 @@ export default function Home() {
         </h2>
         {/* 网站简介: 最大宽度限制和响应式文本大小 */}
         <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl">
-          RuoXiao is a dynamic, database-free website built with Next.js, Tailwind CSS, and Shadcn/UI, featuring a content management system powered by the GitHub API for seamless updates and administration.
+          RuoXiao is Exploring The World.
         </p>
       </section>
 

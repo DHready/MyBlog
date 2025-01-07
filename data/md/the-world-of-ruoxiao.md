@@ -1,7 +1,7 @@
 ---
-title: Welcome to the world of RUOXIAO
+title: Welcome to the world of RuoXiao
 description: >-
-  This article will introduce you to the world of RUOXIAO.
+  This article will introduce you to the world of RuoXiao.
 date: '2025-01-07T22:00:00.000Z'
 coverImage: /images/pictures/website.webp
 tags:
