@@ -9,7 +9,7 @@ import { Metadata } from 'next'
 // 首页组件: LemoBook 网站的主页面
 // 展示网站概述、资源列表和最新文章列表
 export const metadata: Metadata = {
-  title: 'RuoXiao - Open Source Dynamic Website CMS Without Database',
+  title: 'RuoXiao - A boy with a dream to make the world better',
   description: 'A Next.js site with Tailwind & Shadcn/UI, using GitHub API for content management. No database needed for dynamic updates.',
 }
 
