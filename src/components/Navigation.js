@@ -126,15 +126,6 @@ export function Navigation({ articles }) {
                   Home
                 </Link>
                 <Link 
-                  href="/resources" 
-                  className={cn(
-                    "flex items-center transition-colors whitespace-nowrap",
-                    pathname === "/resources" ? "text-blue-600 font-bold" : "text-gray-600 hover:text-blue-600"
-                  )}
-                >
-                  Resources
-                </Link>
-                <Link 
                   href="/posts" 
                   className={cn(
                     "flex items-center transition-colors whitespace-nowrap",
@@ -142,6 +133,15 @@ export function Navigation({ articles }) {
                   )}
                 >
                   Articles
+                </Link>
+                <Link 
+                  href="/resources" 
+                  className={cn(
+                    "flex items-center transition-colors whitespace-nowrap",
+                    pathname === "/resources" ? "text-blue-600 font-bold" : "text-gray-600 hover:text-blue-600"
+                  )}
+                >
+                  Resources
                 </Link>
               </>
             )}
