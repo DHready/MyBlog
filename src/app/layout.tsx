@@ -7,14 +7,14 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: {
-    default: 'LemoBook - Open Source Dynamic Website CMS',
-    template: '%s | LemoBook'
+    default: 'RuoXiao - Welcome to the world of RUOXIAO',
+    template: '%s | RuoXiao',
   },
   description: 'A Next.js site with Tailwind & Shadcn/UI, using GitHub API for content management. No database needed for dynamic updates.',
   keywords: ['Next.js', 'React', 'GitHub API', 'CMS', 'Open Source'],
-  authors: [{ name: 'Lemo', url: 'https://github.com/lemoabc' }],
-  creator: 'Lemo',
-  publisher: 'Lemo',
+  authors: [{ name: 'rx', url: 'https://github.com/DHready' }],
+  creator: 'rx',
+  publisher: 'rx',
   formatDetection: {
     email: false,
     address: false,
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: 'LemoBook - Open Source Dynamic Website CMS',
+    title: 'RuoXiao - Welcome to the world of RUOXIAO',
     description: 'A Next.js site with Tailwind & Shadcn/UI, using GitHub API for content management.',
     url: 'https://lemobook.vercel.app',
     siteName: 'LemoBook',
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
         url: '/images/web.webp',
         width: 1200,
         height: 630,
-        alt: 'LemoBook Preview',
+        alt: 'RuoXiao Preview',
       },
     ],
     locale: 'en_US',
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'LemoBook - Open Source Dynamic Website CMS',
+    title: 'RuoXiao - Welcome to the world of RUOXIAOS',
     description: 'A Next.js site with Tailwind & Shadcn/UI, using GitHub API for content management.',
     images: ['/images/web.webp'],
     creator: '@lemoabc',
