@@ -75,7 +75,7 @@ export function Navigation({ articles }) {
             >
               <img 
                 src="/favicon-16x16.png"
-                alt="LemoBook Logo"
+                alt="RuoXiao Logo"
                 className="h-8 w-auto mr-2"
               />
               <span className="hidden md:inline">Admin Dashboard</span>
@@ -84,10 +84,10 @@ export function Navigation({ articles }) {
             <Link href="/" className="flex items-center space-x-2">
               <img 
                 src="/favicon-16x16.png"
-                alt="LemoBook Logo"
+                alt="RuoXiao Logo"
                 className="h-8 w-auto mr-2"
               />
-              <span className="hidden md:inline font-bold">LemoBook</span>
+              <span className="hidden md:inline font-bold">RuoXiao</span>
             </Link>
           )}
 

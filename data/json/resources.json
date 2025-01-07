@@ -1,32 +1,17 @@
 [
   {
-    "name": "Tailwind CSS",
-    "description": "A utility-first CSS frameworkmomo",
-    "url": "https://tailwindcss.com/"
+    "name": "Open Guessr",
+    "description": "A good and fun open geo guessr game",
+    "url": "https://open-guessr.com/"
   },
   {
-    "name": "Shadcn/ui",
-    "description": "Re-usable components built with Radix UI and Tailwind CSS",
-    "url": "https://ui.shadcn.com/"
+    "name": "Beat Dancer",
+    "description": "A music dancing game full of fun",
+    "url": "https://beat-dancer.com/"
   },
   {
-    "name": "Vercel",
-    "description": "Cloud platform for static sites and Serverless Functions",
-    "url": "https://vercel.com/"
-  },
-  {
-    "name": "Github.com",
-    "description": "The world's leading platform for version control and collaborative software development.",
-    "url": "https://github.com/"
-  },
-  {
-    "name": "NEXT.JS",
-    "description": "The React Framework for the Web",
-    "url": "https://nextjs.org/"
-  },
-  {
-    "name": "lemo csdn",
-    "description": "Lemo's CSDN blog website",
-    "url": "https://blog.csdn.net/qq_36631379/category_10754408.html"
+    "name": "Do I Pass?",
+    "description": "A memory Test game",
+    "url": "https://doipass.com/"
   }
 ]
