@@ -35,7 +35,7 @@ export default function Home() {
         </h1>
         {/* 副标题: 响应式字体大小设置 */}
         <h2 className="text-2xl tracking-tighter sm:text-3xl md:text-3xl lg:text-3xl">
-          Open Source Dynamic Website CMS Without Database
+          A boy with a dream to make the world better
         </h2>
         {/* 网站简介: 最大宽度限制和响应式文本大小 */}
         <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl">
